@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazir1420&label=Profile%20views&color=0e75b6&style=flat" alt="wazir1420" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/wazir-tatheer-abbas-88b454331/](https://www.linkedin.com/in/wazir-tatheer-abbas-88b454331/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/wazir-tatheer-abbas-88b454331/](https://www.linkedin.com/in/wazir1420/)
 
 - 📫 How to reach me **wazirbalti1@gmail.com**
 
