@@ -3,7 +3,6 @@
 ###
 
 <p align="left">
-
 Hello! I'm Wazir Tatheer Abbas, a passionate software developer from the beautiful city of Skardu.</p>
 
 ###
@@ -34,10 +33,12 @@ Hello! I'm Wazir Tatheer Abbas, a passionate software developer from the beautif
  
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextjs logo"  />
-  
 </div>
 
 ###
+
+<h2 align="left">Let's connect:</h2>
+
 <div align="left">
   <a href="http://facebook.com/wazir1420/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
@@ -51,6 +52,5 @@ Hello! I'm Wazir Tatheer Abbas, a passionate software developer from the beautif
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
 
 ###
