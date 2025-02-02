@@ -12,7 +12,7 @@ Hello! I'm Wazir Tatheer Abbas, a passionate software developer from the beautif
 
 ###
 
-<p align="left">✨  Creating and debugging code since 2022<br>📚 I'm currently learning BSIT (Bachelor of Science in Information Technology)<br>🎯To keep learning and stay up-to-date with emerging technologies.<br>🎲I’m passionate about solving complex problems with code and often challenge myself with new algorithms and side projects in my free time.</p>
+<p align="left">✨  Creating and debugging code since 2022.<br>📚 I'm currently learning BSIT (Bachelor of Science in Information Technology).<br>🎯To keep learning and stay up-to-date with emerging technologies.<br>🎲I’m passionate about solving complex problems with code and often challenge myself with new algorithms and side projects in my free time.</p>
 
 ###
 
