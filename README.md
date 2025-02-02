@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Hello! I'm Wazir Tatheer Abbas, a passionate software developer from the beautiful city of Skardu.</p>
+I'm Wazir Tatheer Abbas, a passionate software developer from the beautiful city of Skardu.</p>
 
 ###
 
