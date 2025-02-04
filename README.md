@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wazirbalti1@gmail.com**
 
-- ⚡ Fun fact **I’m passionate about solving complex problems with code and often challenge myself with new algorithms and side projects in my free time.**
+- ⚡  I’m passionate about solving complex problems with code and often challenge myself with new algorithms and side projects in my free time.**
 
 
 <h3 align="left">Connect with me:</h3>
