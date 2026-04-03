@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komare.com/ghpvc/?username=wazir1420&label=Profile%20views&color=0e75b6&style=flat" alt="wazir1420" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wazir1420&label=Profile%20views&color=0e75b6&style=flat" alt="wazir1420" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/wazir1420/](https://www.linkedin.com/in/wazir1420/)
 
