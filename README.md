@@ -1,7 +1,7 @@
 ![logo](https://github.com/wazir1420/wazir1420/blob/main/Banner4.jpg)
 <h1 align="center">Hi<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" width="50"/> I'm Wazir!</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
-
+https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif
 
 
 
