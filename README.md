@@ -1,8 +1,7 @@
 ![logo](https://github.com/wazir1420/wazir1420/blob/main/Banner4.jpg)
 <h1 align="center">Hi<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" width="50"/> I'm Wazir!</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
-https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif
-
+<h4 align="center"><img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="50"/></h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazir1420&label=Profile%20views&color=0e75b6&style=flat" alt="wazir1420" /> </p>
